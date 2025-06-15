@@ -1,4 +1,4 @@
-# My-Project
+# student-registration-system
 This program allows users to register regular and extension students, remove students, display all registered students, generate registration slips, and exit the program. The program is well-structured and uses a menu-driven approach.
 # Features
 - Register Students: Register regular and extension students with their details.
